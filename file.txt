@@ -1,0 +1,5 @@
+<div class="Intro">
+                <div class="photo">
+                    <img src="profile.jpg" alt="dharti bhuva"  height="430px">
+              </div> 
+            </div>
